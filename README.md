@@ -13,7 +13,7 @@
 <img width="1653" height="914" alt="image" src="https://github.com/user-attachments/assets/1c377afd-f5ba-4ef1-9060-b25f6706fa96" />
 
 ### 4. Write a c program to print the pyramid pattern.
-
+```
    *
 
   ***
@@ -21,7 +21,7 @@
  *****
 
 *******
-
+```
 <img width="1661" height="774" alt="image" src="https://github.com/user-attachments/assets/a43f6520-3e24-437e-ad6a-994aeb1047f5" />
 
 ### 5. Write a c program to find GCD of two numbers using loop.
