@@ -1,4 +1,4 @@
-# C-program
+# C-Assignment
 
 ### 1. Write a c program to print all prime numbers between two limits.
 
